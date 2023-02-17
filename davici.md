@@ -33,5 +33,5 @@ Click on the blank space and click delete to delete the video that u don't want
 
  ![Basic Syntax](./images/basic-syntax.png)
 
-
+ ![duck](./images/duck.png/)
  
