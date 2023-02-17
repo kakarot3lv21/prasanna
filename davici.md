@@ -29,4 +29,9 @@ Click on the blank space and click delete to delete the video that u don't want
  - A button is for arrow: click arrow to delete the space u want to buy clicking the gaps And press delete button to delete (without closing the gaps)
  - Shift+delete: removes the clip and closes the gap
  - Ripple edit right contl+shift)
- -Ripple edit left  `contl+shift`
+ - Ripple edit lezft  `cntrl+shift`
+
+ ![Basic Syntax](./images/basic-syntax.png)
+
+
+ 
