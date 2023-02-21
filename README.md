@@ -16,3 +16,4 @@ Windows +p - double cast screen
 Windows +shift +left or right- switch screen 
 You tube short cut- pause video and press arrow keys on keyboard to move video frame to frame
 
+Ctrl+shift+T - Open closed tabs
