@@ -35,8 +35,7 @@ Click on the blank space and click delete to delete the video that u don't want
 - Drag the line and press I on the keyboard to set where the clips to start (I=in point) 
 - (O=out point):stop point of the video
 - Then drag and place where u want that clip on the primary video timeline
-- Mute video: If you don't want the audio of the layout video just drag down the audio line u can mute the video
-Or U can also drag video from media and add on the timeline
+- Mute video: If you don't want the audio of the layout video just drag down the audio line u can mute the video.
 
 ## Audio 
 - Add audio music: grab the music from the media to the time to add and u can adjust and start endpoint using the same tool
@@ -80,4 +79,22 @@ Or U can also drag video from media and add on the timeline
 
 ## Shortcuts
 
-- Contl + B = blade,c
+- Contl + B = blade,c.0000000000000.
+
+
+
+
+
+## DNS-DOMAIN NAME SYESTEM 
+- DNS IS USES TO POST WHAT WE ASK IN THE SITE
+FOR EXAMPLE:IF WE SEARCH GOOGLE.COM DNS WILL FIND THE IP ADRESS OF GOOGLE AND DELIVER OUR REQUEST..THEN THEY SEND BACK TO US BY USING OUR IP ADDRESS
+## GOOGLE 
+- GOOGLE WILL SEND HTML-CNS-JS
+- HTML-IS OPTIONS SHOWS THING LIKE SEARCH OPTION BAR OPTION ETC
+- CNS- IS TO DESIGN THE SITE LIKE SHOADOW ,COLOURS ETX.
+- JS - IS TO GIVE SEGGESTIONS THAT YOU YOU LOOKING FOR
+## VPN 
+- HOW VPN USE? 
+- VPN IS WORKING LIKE INTERMIDIATE PERSON IF I ASK SOMETHING TO GOOGLE I WILL NOT DIRECTLY ASK GOOGLE BY USING VPN I ASK TO AFRICAN SERVER TO GOOGLE SO THE INFORMATION FROM GOOGLE WILL RETURN TO AFRICAN SYSTEM AND THEN TO ME THATS HOW IT WORKS..
+
+
